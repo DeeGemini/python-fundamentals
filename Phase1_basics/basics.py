@@ -14,3 +14,10 @@ print(type(age))
 print(type(gender))
 print(type(height))
 print(type(is_engineer))
+
+# Diplaying Values
+print(name)
+print(age)
+print(gender)
+print(height)
+print(is_engineer)
